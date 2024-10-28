@@ -1,0 +1,1 @@
+CURRENT VERSION: Spectrum 1.0.0
