@@ -8,4 +8,4 @@ So, Spectrum is a coding language were you can set the precision, and everything
 
 1.4: Easyparse formulas: So Easyparse has formulas, like: addition, subtraction, multiplication, division, exponentiation, absolute value, and square roots, (make sure to spell them right; I don't know how to add like "Did you mean:" im not that smart) How do you use them? Add the varibles and parse then... It parses. wow.
 
-2.0: FunctionLoader: So the function loader isn't that complicated. This is how it works; so the loader will tell you everything that the Easyparse will then save it as a .Spec
+2.0: FunctionLoader: So the function loader isn't that complicated. This is how it works; so the loader will tell you everything that the Easyparse will then save it as a .spcl
