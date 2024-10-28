@@ -12,4 +12,6 @@ So, Spectrum is a coding language were you can set the precision, and everything
 
 2.1: FunctionLoader Parser: So the FunctionLoader Parser will take the .spcl file and parse it. wow.
 
-2.bonus: Did you know that you can create your own .spcl file and parse it! But, you need to follow the lines perfectly or it will raise an error:
+2.bonus: Did you know that you can create your own .spcl file and parse it! But, you need to follow the lines perfectly or it will raise an error: function_name, a, b, c, operation, cbackwards, and precision. Function name isn't really necessary, but I guess just choose a function name I guess.
+
+Made with llvm_lite and decimal. Ty
